@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SpamFilterSample">
+</Property><Property Name="Soubor řešení" Value="C:\Users\Pavel\Documents\Visual Studio 2010\Projects\SpamFilterSample\SpamFilterSample.sln">
+</Property><Property Name="Date" Value="26. listopadu 2015">
+</Property><Property Name="Time" Value="13:20">
+</Property></Properties><Event ErrorLevel="1" Project="SpamFilterSample" Source="SpamFilterSample\SpamFilterSample.csproj" Description="Váš projekt je určen pro rozhraní .NET Framework verze 2.0 nebo 3.0. Jestliže váš projekt používá sestavení vyžadující novější rozhraní .NET Framework, sestavení vašeho projektu selže. Můžete změnit verzi rozhraní .NET Framework kliknutím na Vlastnosti v menu projektu a pak vybráním nové verze rozhraní .NET Framework v rozevíracím seznamu. (Pro Visual Basic je toto umístěno na kartě Kompilace, kliknutím na tlačítko 'Pokročilé Možnosti Kompilátoru...'.)">
+</Event><Event ErrorLevel="0" Project="SpamFilterSample" Source="SpamFilterSample\SpamFilterSample.csproj" Description="Převod projektu proběhl úspěšně">
+</Event><Event ErrorLevel="3" Project="SpamFilterSample" Source="SpamFilterSample\SpamFilterSample.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SpamFilterSample.sln" Description="Konverze řešení proběhla úspěšně">
+</Event><Event ErrorLevel="3" Project="" Source="SpamFilterSample.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SpamFilterSample" Source="SpamFilterSample\SpamFilterSample.csproj" Description="Kontrola byla dokončena: aktualizace není pro soubory projektu vyžadována.">
+</Event></UpgradeLog>

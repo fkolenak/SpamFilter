@@ -1,0 +1,7 @@
+C:\Users\Pavel\Documents\Visual Studio 2010\Projects\SpamFilterSample\SpamFilterSample\bin\Debug\GrahamSpamFilter.exe
+C:\Users\Pavel\Documents\Visual Studio 2010\Projects\SpamFilterSample\SpamFilterSample\bin\Debug\GrahamSpamFilter.pdb
+C:\Users\Pavel\Documents\Visual Studio 2010\Projects\SpamFilterSample\SpamFilterSample\obj\Debug\SpamFilterSample.Form1.resources
+C:\Users\Pavel\Documents\Visual Studio 2010\Projects\SpamFilterSample\SpamFilterSample\obj\Debug\GrahamSpamFilter.Properties.Resources.resources
+C:\Users\Pavel\Documents\Visual Studio 2010\Projects\SpamFilterSample\SpamFilterSample\obj\Debug\GrahamSpamFilter.csproj.GenerateResource.Cache
+C:\Users\Pavel\Documents\Visual Studio 2010\Projects\SpamFilterSample\SpamFilterSample\obj\Debug\GrahamSpamFilter.exe
+C:\Users\Pavel\Documents\Visual Studio 2010\Projects\SpamFilterSample\SpamFilterSample\obj\Debug\GrahamSpamFilter.pdb
